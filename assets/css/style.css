@@ -37,7 +37,7 @@ main{
 .mensaje{
     height: 630px;
     background: white;
-    background-image: url("/imagenes/Muñeco.png");
+    background-image: url("/assets/imagenes/Muñeco.png");
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -93,4 +93,9 @@ main{
 .informacion {
     color: #495057;
     font-size:18px;
+}
+
+.pie{
+    text-align: center;
+    font-size: 10px;
 }
